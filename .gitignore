@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Vercel
+.vercel/
+
+# Variables de entorno
+.env*
+!.env.example
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
